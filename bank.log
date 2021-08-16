@@ -1,0 +1,17 @@
+INFO	2021-08-10 20:53:31,758	19658	App	[main]	
+---------------------Welcome,Meena! Have a Nice Day :)--------------
+INFO	2021-08-10 20:53:32,964	20864	App	[main]	Enter your account type to create( E for Employee / C for Customer )
+INFO	2021-08-10 20:54:39,968	0	App	[main]	
+
+############### Banking Mangement APP #############
+INFO	2021-08-10 20:54:42,575	2607	App	[main]	
+---------------------Welcome,Meena! Have a Nice Day :)--------------
+INFO	2021-08-10 20:54:43,724	3756	App	[main]	Enter your account type to create( E for Employee / C for Customer )
+ERROR	2021-08-10 20:55:06,630	26662	EmployeeApp	[main]	Accout Already Exists!!
+
+#Sorry, meena, Account is NOT CREATED successfully!!
+INFO	2021-08-10 20:55:09,768	29800	App	[main]	Enter your account type to Login( E for Employee / C for Customer )
+ERROR	2021-08-10 20:55:10,532	30564	App	[main]	Invalid Type : 1
+INFO	2021-08-10 20:55:14,168	34200	App	[main]	Enter your account type to Login( E for Employee / C for Customer )
+ERROR	2021-08-10 20:55:27,115	47147	EmployeeApp	[main]	INVALID!! Please TRY AGAIN! INCORRECT Name/Password
+INFO	2021-08-10 20:55:45,268	65300	App	[main]	Thanks for using this APP :)
